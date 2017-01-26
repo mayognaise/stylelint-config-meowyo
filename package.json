@@ -1,0 +1,7 @@
+{
+  "name": "stylelint-config-meowyo",
+  "version": "0.0.4",
+  "description": "An stylelint configuration for me",
+  "author": "mayognaise <tobimayo@gmail.com>",
+  "license": "MIT"
+}
